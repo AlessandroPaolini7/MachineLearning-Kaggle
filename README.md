@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is a collection of machine learning projects and exercises related to the Kaggle platform. I'm currently taking the Data Visualization course.
+This repository is a collection of machine learning projects and exercises related to the Kaggle platform. I'm currently taking the Time Series course.
 
 ## Kaggle Courses
 
@@ -10,6 +10,7 @@ This repository is a collection of machine learning projects and exercises relat
 - [Pandas](https://www.kaggle.com/learn/pandas)
 - [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
+- [Time Series](https://www.kaggle.com/learn/time-series)
   
 
 ## Contents
